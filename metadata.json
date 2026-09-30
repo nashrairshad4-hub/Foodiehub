@@ -1,0 +1,6 @@
+{
+  "name": "Rustica Grill & Kitchen - Restaurant Food Ordering",
+  "description": "Full-stack restaurant food ordering platform featuring gourmet dish customization, real-time order tracking, table booking, and Django-style kitchen administration with MySQL schema simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
